@@ -82,10 +82,6 @@ The database of the project consists of several entities interconnected to suppo
 - `amount` - Amount of the transaction.
 - ...
 
-👨‍💻 Team Members
-- [Mombekov Dias](https://github.com/Dias21B030874) (Student ID: 21B030874) 🧑‍💼
-- [Yespolova Zharkynay](https://github.com/Dias21B030874) (Student ID: 21B030666) 👩‍💼
-- [Kidirmaganbetov Nurken](https://github.com/Dias21B030874) (Student ID: 21B030) 🧑‍💻
 
 ##🔨 CRUD Functionality
 The project implements CRUD (Create, Read, Update, Delete) functionality for managing various entities in the system. For example, users can create, view, update, and delete their bank accounts, products, insurance policies, and transactions. The CRUD operations ensure that users have full control over their data and can perform necessary actions with ease. 🔄
